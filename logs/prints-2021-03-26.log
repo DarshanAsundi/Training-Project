@@ -1,0 +1,7 @@
+11:27:33.824 [main] INFO  Resources.Base - “Kudos Sent Today is Updated
+11:27:54.421 [main] INFO  Resources.Base - Requirement Failed: User is able to send kudos to him self
+11:28:12.011 [main] INFO  Resources.Base - Logged in Successfully
+11:28:13.071 [main] INFO  Resources.Base - Kudo Sent Successfully
+11:28:21.268 [main] INFO  Resources.Base - Clicked on recent Contact to send Kudo
+11:28:21.525 [main] INFO  Resources.Base - Clicked on Kudo
+11:28:29.851 [main] INFO  Resources.Base - Kudos sent successfully from recent Contact

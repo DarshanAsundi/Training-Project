@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test.Tst_Verification_Login_1_1_1"/>
+      <class name="test.Tst_Title_Verification_1_1_2"/>
+      <class name="test.Tst_Colour_verification_1_1_3"/>
+      
+      <class name="test.Tst_Activity_Page_1_2"/>
+      
+      
+      <class name="test.Tst_Send_Kudos_1_3_2"/>
+      <class name="test.Tst_OnlyOneKudos_1_3_2"/>
+      <class name="test.Tst_Writing_Citation_1_3_3"/>
+      <class name="test.Txt_SendKudo_RecentContact_1_3_5"/>
+      
+      <class name="test.Tst_Kudo_Search_1_4_1"/>
+      <class name="test.Tst_Kudo_Search_1_4_2"/>
+      <class name="test.Tst_Kudo_Search_1_4_3"/>
+      
+      <class name="test.Tst_Kudos_From_me_1_6_1"/>
+      <class name="test.Tst_Kudos_From_me_1_6_2"/>
+      <class name="test.Tst_Kudos_Sent_Today_count_1_6_4"/>
+      <class name="test.Tst_Send_Self_kudos_1_6_5"/>
+      
+      <class name="test.Tst_Integration_3"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
